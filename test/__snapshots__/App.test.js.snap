@@ -1,0 +1,640 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> functions should match snapshot 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#eee",
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+  testID="mainContainer"
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 30,
+        "fontWeight": "bold",
+        "marginVertical": 40,
+      }
+    }
+    testID="gameTitle"
+  >
+    Minesweeper
+  </Text>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#666666",
+        "flexDirection": "column",
+        "height": 120,
+        "width": 120,
+      }
+    }
+    testID="gameBoard"
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 30,
+          "width": 120,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 30,
+          "width": 120,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 30,
+          "width": 120,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "height": 30,
+          "width": 120,
+        }
+      }
+    >
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "backgroundColor": "#bebebe",
+                "borderBottomColor": "#7a7a7a",
+                "borderLeftColor": "#ffffff",
+                "borderRightColor": "#7a7a7a",
+                "borderTopColor": "#ffffff",
+                "borderWidth": 3,
+              },
+              Object {
+                "height": 30,
+                "width": 30,
+              },
+            ]
+          }
+        />
+      </View>
+    </View>
+  </View>
+</View>
+`;

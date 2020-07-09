@@ -1,7 +1,8 @@
 import { Dimensions } from "react-native";
 export const BoardDimensions = {
-  max_width: Dimensions.get("screen").width,
-  max_height: Dimensions.get("screen").height,
-  size: 10,
-  cell_size: 30,
+  MAX_WIDTH: Dimensions.get("screen").width,
+  MAX_HEIGHT: Dimensions.get("screen").height,
+  MAX_ROWS: 4,
+  MAX_COLS: 4,
+  CELL_SIZE: 30,
 };
